@@ -16,9 +16,6 @@
 
 package jackpal.androidterm;
 
-import jackpal.androidterm.emulatorview.compat.ClipboardManagerCompat;
-import jackpal.androidterm.emulatorview.compat.ClipboardManagerCompatFactory;
-
 import jackpal.androidterm.compat.ActionBarCompat;
 import jackpal.androidterm.compat.ActivityCompat;
 import jackpal.androidterm.compat.AndroidCompat;
