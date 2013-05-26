@@ -339,6 +339,7 @@ public class EmulatorView extends View implements GestureDetector.OnGestureListe
         if (mCursorBlink != 0) {
             mHandler.postDelayed(mBlinkCursor, CURSOR_BLINK_PERIOD);
         }
+        mKeyListener.onResume();
     }
 
     /**
@@ -348,6 +349,7 @@ public class EmulatorView extends View implements GestureDetector.OnGestureListe
         if (mCursorBlink != 0) {
             mHandler.removeCallbacks(mBlinkCursor);
         }
+        mKeyListener.onPause();
     }
 
     /**
