@@ -17,103 +17,103 @@
 
 <resources>
     <string-array name="entries_statusbar_preference">
-        <item>Show status bar</item>
-        <item>Hide status bar</item>
+        <item>显示状态栏</item>
+        <item>隐藏状态栏</item>
     </string-array>
 
     <string-array name="entries_actionbar_preference">
         <!-- <item>Action bar disabled</item> -->
-        <item>Always show action bar</item>
-        <item>Hide action bar (touch top of screen or Menu key to show)</item>
+        <item>显示操作栏</item>
+        <item>隐藏操作栏 (点击屏幕上方或按菜单键显示)</item>
     </string-array>
 
     <string-array name="entries_orientation_preference">
-        <item>Automatic</item>
-        <item>Landscape</item>
-        <item>Portrait</item>
+        <item>自动</item>
+        <item>横屏</item>
+        <item>竖屏</item>
     </string-array>
 
     <string-array name="entries_cursorblink_preference">
-        <item>Non-blinking cursor</item>
-        <item>Blinking cursor</item>
+        <item>非闪烁光标</item>
+        <item>闪烁光标</item>
     </string-array>
 
     <string-array name="entries_cursorstyle_preference">
-        <item>Rectangle</item>
-        <item>Underline</item>
-        <item>Vertical bar</item>
+        <item>方块</item>
+        <item>下划线</item>
+        <item>竖线</item>
     </string-array>
 
     <string-array name="entries_fontsize_preference">
-        <item>4 x 8 pixels</item>
-        <item>6 pt</item>
-        <item>7 pt</item>
-        <item>8 pt</item>
-        <item>9 pt</item>
-        <item>10 pt</item>
-        <item>12 pt</item>
-        <item>14 pt</item>
-        <item>16 pt</item>
-        <item>20 pt</item>
-        <item>24 pt</item>
-        <item>28 pt</item>
-        <item>32 pt</item>
-        <item>36 pt</item>
-        <item>42 pt</item>
-        <item>48 pt</item>
-        <item>64 pt</item>
-        <item>72 pt</item>
-        <item>96 pt</item>
-        <item>144 pt</item>
-        <item>288 pt</item>
+        <item>4 x 8 像素</item>
+        <item>6 磅</item>
+        <item>7 磅</item>
+        <item>8 磅</item>
+        <item>9 磅</item>
+        <item>10 磅</item>
+        <item>12 磅</item>
+        <item>14 磅</item>
+        <item>16 磅</item>
+        <item>20 磅</item>
+        <item>24 磅</item>
+        <item>28 磅</item>
+        <item>32 磅</item>
+        <item>36 磅</item>
+        <item>42 磅</item>
+        <item>48 磅</item>
+        <item>64 磅</item>
+        <item>72 磅</item>
+        <item>96 磅</item>
+        <item>144 磅</item>
+        <item>288 磅</item>
     </string-array>
 
     <string-array name="entries_color_preference">
-        <item>Black text on white</item>
-        <item>White text on black</item>
-        <item>White text on blue</item>
-        <item>Green text on black</item>
-        <item>Amber text on black</item>
-        <item>Red text on black</item>
-        <item>Holo blue text on black</item>
-        <item>Solarized Light</item>
-        <item>Solarized Dark</item>
-        <item>Linux Console</item>
+        <item>白底黑字</item>
+        <item>黑底白字</item>
+        <item>蓝底白字</item>
+        <item>黑底绿字</item>
+        <item>黑底黄字</item>
+        <item>黑底红字</item>
+        <item>Holo 风格</item>
+        <item>爆光过度</item>
+        <item>爆光不足</item>
+        <item>Linux 终端</item>
     </string-array>
 
     <string-array name="entries_backaction_preference">
-        <item>Closes all terminal windows</item>
-        <item>Closes this terminal window only</item>
-        <item>Closes activity, leaving sessions running</item>
-        <item>Sends ESC to terminal</item>
-        <item>Sends TAB to terminal</item>
+        <item>关闭所有窗口</item>
+        <item>关闭当前窗口</item>
+        <item>关闭当前实例，保留正在运行的会话</item>
+        <item>给终端发送 ESC</item>
+        <item>给终端发送 TAB</item>
     </string-array>
 
     <string-array name="entries_controlkey_preference">
-        <item>Jog ball</item>
-        <item>\@ key</item>
-        <item>Left Alt key</item>
-        <item>Right Alt key</item>
-        <item>Vol Up key</item>
-        <item>Vol Down key</item>
-        <item>Camera key</item>
-        <item>None</item>
+        <item>轨迹球</item>
+        <item>\@ 键</item>
+        <item>左 Alt 键</item>
+        <item>右 Alt 键</item>
+        <item>提升音量键</item>
+        <item>降低音量键</item>
+        <item>相机快门键</item>
+        <item>无</item>
     </string-array>
 
     <string-array name="entries_fnkey_preference">
-        <item>Jog ball</item>
-        <item>\@ key</item>
-        <item>Left Alt key</item>
-        <item>Right Alt key</item>
-        <item>Vol Up key</item>
-        <item>Vol Down key</item>
-        <item>Camera key</item>
-        <item>None</item>
+        <item>轨迹球</item>
+        <item>\@ 键</item>
+        <item>左 Alt 键</item>
+        <item>右 Alt 键</item>
+        <item>提升音量键</item>
+        <item>降低音量键</item>
+        <item>相机快门键</item>
+        <item>无</item>
     </string-array>
 
     <string-array name="entries_ime_preference">
-        <item>Character-based</item>
-        <item>Word-based</item>
+        <item>字本</item>
+        <item>词本</item>
     </string-array>
 
     <!-- These are the 'short' names for the control keys. They are used in the special keys dialog. -->
